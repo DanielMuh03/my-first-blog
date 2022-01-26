@@ -1,1 +1,2 @@
 Django~=3.2.10
+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
